@@ -28,11 +28,6 @@ This project is a **Document Question-and-Answer Retrieval Augmented Generation 
 └── README.md            # Project documentation
 ```
 
-## Images of chatbot
-![image1](<Screenshot 2024-09-15 220130.png>)
-![image2](<Screenshot 2024-09-15 220223.png>)
-![alt text](<Screenshot 2024-09-15 220242.png>)
-
 ### Prerequisites
 
 Ensure you have the following installed:
@@ -40,6 +35,17 @@ Ensure you have the following installed:
 - **Python 3.12** or later
 - **Conda** (for environment management)
 - **Groq API key** and **Google Generative AI API key** (add these to `.env`)
+
+
+
+## Images of chatbot
+![image1](<Screenshot 2024-09-15 220130.png>)
+
+
+![image2](<Screenshot 2024-09-15 220223.png>)
+
+
+![alt text](<Screenshot 2024-09-15 220242.png>)
 
 ### Clone the Repository
 
